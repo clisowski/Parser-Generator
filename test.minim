@@ -1,0 +1,35 @@
+int x;
+int y;
+int a; bool b; int c;
+bool d;
+void f;
+bool g; void h;
+struct node first;
+struct node{int first; bool second; struct node first;};
+int test_function(){}
+int test_function(){return;}
+int test(int cal){}
+int test(int cal, bool liso){}
+int test_again(int one, bool two, void three){}
+int test1(int x){return;}
+int test2(int x, int y){return;}
+int test(bool y, bool z, void w){return;}
+void test(){
+f =  z;
+node.first = a;
+node.first = a+b + c;
+b++;
+b.c--;
+p=a*b*c/h-2+2*66;
+}
+void testAgain(){
+if(a==b){int a;}
+if(a>b){int b;}
+if(a<b){eight = 8;}
+if(a>=b){a = 10*2+6/3;}
+if(a<=b){a++;}
+}
+void test_complex(int x, bool start){
+if(a<0){if(x==y){x=2+2;}else{if(z>y){y=z*y;}if(!var){var=false;x++;call();greeting="Why hello there?!";}else{var = true;}}}
+}
+void test(){if(b==-1){x=4+3*5-y;while(c){y=y*2+x;}}else{x=0;}}
